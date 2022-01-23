@@ -13,9 +13,9 @@ const Intro = () => {
                     <div className="i-title-wrapper">
                         <div className="i-title-item">Web Developer</div>
                         <div className="i-title-item">UI/UX Designer</div>
-                        <div className="i-title-item">Virologist</div>
+                        <div className="i-title-item">Machine Learner</div>
                         <div className="i-title-item">Tech Enthusiast</div>
-                        <div className="i-title-item">Front end engineer</div>
+                        <div className="i-title-item">Virologist</div>
                     </div>
                     </div>
                     <p className="i-description">
