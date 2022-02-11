@@ -7,15 +7,14 @@ const About = () => {
                 <div className="a-card bg"></div>
                 <div className="a-card">
                     <img src="https://images.pexels.com/photos/270404/pexels-photo-270404.jpeg?cs=srgb&dl=pexels-pixabay-270404.jpg&fm=jpg" alt="" className="a-img" />
-                </div>
-                
+                </div> 
             </div>
+
             <div className="a-right">
-            
                 <h1 className="title">About me</h1>
                 <p className="a-sub">
-                Hi! I am Ayo, a web designer/developer focused
-                on crafting great web experiences. 
+                    Hi! I am Ayo, a web designer/developer focused
+                    on crafting great web experiences. 
                 </p>
                 <p className="a-description">
                 I don’t like to define myself by the work

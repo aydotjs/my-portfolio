@@ -8,7 +8,6 @@
     align-items: center;
     justify-content: center;
  
-    
 }
 .i-right{
     flex: 1;
@@ -56,8 +55,9 @@
     font-size: 30px;
     font-weight: bold;
     color: rgb(28, 236, 118);
-    display: flex;
-    align-items: center;
+   display: flex;
+     align-items: center;
+ 
 }
 .i-scroll{
     width: 30px;
