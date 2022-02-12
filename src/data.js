@@ -1,33 +1,33 @@
 export const products = [
     {
         id: 1,
-        img: require('./img/project-1.png'),
-        link: "https://kind-spence-1d3e5d.netlify.app/"
+        img: require('./img/nimelsaa-pic.png'),
+        link: "https://www.nimelssaui.org/"
     },
     {
         id: 2,
-        img: require('./img/project-1.png'),
-        link: "https://kind-spence-1d3e5d.netlify.app/"
+        img: require('./img/peacy-craft.png'),
+        link: "https://peacycraft.netlify.app/"
     },
     {
         id: 3,
         img: require('./img/project-1.png'),
-        link: "https://kind-spence-1d3e5d.netlify.app/"
+        link: "https://enairademoapp.netlify.app/"
     },
     {
         id: 4,
         img: require('./img/project-1.png'),
-        link: "https://kind-spence-1d3e5d.netlify.app/"
+        link: "https://enairademoapp.netlify.app/"
     },
     {
         id: 5,
         img: require('./img/project-1.png'),
-        link: "https://kind-spence-1d3e5d.netlify.app/"
+        link: "https://enairademoapp.netlify.app/"
     },
     {
         id: 6,
         img: require('./img/project-1.png'),
-        link: "https://kind-spence-1d3e5d.netlify.app/"
+        link: "https://enairademoapp.netlify.app/"
     },
 
 ]
