@@ -11,6 +11,7 @@
 .c-wrapper{
     padding: 50px;
     display: flex;
+    height: 100%;
 }
 .c-left{
     flex: 1;

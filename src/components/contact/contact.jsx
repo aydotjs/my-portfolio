@@ -53,10 +53,10 @@ const handleSubmit = (e)=>{
                       freelancing if the right project comes along.
                   </p>
                   <form ref={formRef} onSubmit={handleSubmit}>
-                      <input style={{backgroundColor: darkMode && "#333"}} type="text" placeholder="Name" name="user_name"/>
-                      <input style={{backgroundColor: darkMode && "#333"}} type="text" placeholder="Subject" name="user_subject"/>
-                      <input style={{backgroundColor: darkMode && "#333"}} type="text" placeholder="Your Email Address" name="user_email"/>
-                      <textarea style={{backgroundColor: darkMode && "#333"}} rows="4" placeholder= " Type your message here" name="message"/>
+                      <input style={{backgroundColor:darkMode ? "#222" : "white",color:darkMode ? "white" : "black"}} type="text" placeholder="Name" name="user_name"/>
+                      <input style={{backgroundColor:darkMode ? "#222" : "white",color:darkMode ? "white" : "black"}} type="text" placeholder="Subject" name="user_subject"/>
+                      <input style={{backgroundColor:darkMode ? "#222" : "white",color:darkMode ? "white" : "black"}} type="text" placeholder="Your Email Address" name="user_email"/>
+                      <textarea style={{backgroundColor:darkMode ? "#222" : "white",color:darkMode ? "white" : "black"}} rows="4" placeholder= " Type your message here" name="message"/>
                       <button>Submit</button>
                       {done && <p className="successfulmsg">Thank you for contacting me, will reply as soon as I can</p>}
                   </form>
