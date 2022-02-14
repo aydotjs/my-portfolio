@@ -1,7 +1,7 @@
 export const products = [
     {
         id: 1,
-        img: require('./img/nimelsaa-pic.png'),
+        img: require('./img/nimelssa-web.png'),
         link: "https://www.nimelssaui.org/"
     },
     {
@@ -11,22 +11,22 @@ export const products = [
     },
     {
         id: 3,
-        img: require('./img/project-1.png'),
+        img: require('./img/enaira-web.png'),
         link: "https://enairademoapp.netlify.app/"
     },
     {
         id: 4,
-        img: require('./img/project-1.png'),
+        img: require('./img/enaira-web.png'),
         link: "https://enairademoapp.netlify.app/"
     },
     {
         id: 5,
-        img: require('./img/project-1.png'),
+        img: require('./img/enaira-web.png'),
         link: "https://enairademoapp.netlify.app/"
     },
     {
         id: 6,
-        img: require('./img/project-1.png'),
+        img: require('./img/enaira-web.png'),
         link: "https://enairademoapp.netlify.app/"
     },
 
