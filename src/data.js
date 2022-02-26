@@ -18,7 +18,7 @@ export const products = [
     {
         id: 4,
         img: require('./img/travel-project.png'),
-        link: "https://enairademoapp.netlify.app/"
+        link: "https://naijexplore.netlify.app/"
     },
   
 

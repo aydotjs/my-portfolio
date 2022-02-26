@@ -35,11 +35,11 @@ const handleSubmit = (e)=>{
                   <div className="c-info">
                       <div className="c-info-item">
                           <img src={Phone} alt="" className="c-icon" />
-                          +234 81 670 66 792
+                          <a href="tel:+2349036435534">+234 90 364 355 34</a>
                       </div>
                       <div className="c-info-item">
                           <img src={Email} alt="" className="c-icon" />
-                          ayobamiseyiowoeye@gmail.com
+                          <a href = "mailto: ayobamiseyiowoeye@gmail.com">ayobamiseyiowoeye@gmail.com</a>
                       </div>
                       <div className="c-info-item">
                           <img src={Address} alt="" className="c-icon" />
