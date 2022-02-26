@@ -80,6 +80,7 @@ button{
     font-weight: 500;
     border-radius: 5px;
     cursor: pointer;
+    display: block;
 
 }
 .successfulmsg{

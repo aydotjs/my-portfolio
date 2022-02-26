@@ -77,6 +77,9 @@
     position: absolute;
 
 }
+.i-description{
+   font-size: 1.4rem;
+}
 /* clip path generator */
 .i-bg{
     clip-path: polygon(100% 0%, 100% 54%, 100% 100%, 25% 100%, 0% 50%, 25% 0%);

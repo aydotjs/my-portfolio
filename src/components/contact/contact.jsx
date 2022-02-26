@@ -60,6 +60,7 @@ const handleSubmit = (e)=>{
                       <button>Submit</button>
                       {done && <p className="successfulmsg">Thank you for contacting me, will reply as soon as I can</p>}
                   </form>
+                  
               </div>
           </div>
         </div>
