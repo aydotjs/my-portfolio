@@ -35,11 +35,11 @@ const handleSubmit = (e)=>{
                   <div className="c-info">
                       <div className="c-info-item">
                           <img src={Phone} alt="" className="c-icon" />
-                          <a href="tel:+2349036435534">+234 90 364 355 34</a>
+                          <a style={{backgroundColor:darkMode ? "#222" : "white",color:darkMode ? "white" : "black"}} href="tel:+2349036435534">+234 90 364 355 34</a>
                       </div>
                       <div className="c-info-item">
                           <img src={Email} alt="" className="c-icon" />
-                          <a href = "mailto: ayobamiseyiowoeye@gmail.com">ayobamiseyiowoeye@gmail.com</a>
+                          <a style={{backgroundColor:darkMode ? "#222" : "white",color:darkMode ? "white" : "black"}} href = "mailto: ayobamiseyiowoeye@gmail.com">ayobamiseyiowoeye@gmail.com</a>
                       </div>
                       <div className="c-info-item">
                           <img src={Address} alt="" className="c-icon" />
