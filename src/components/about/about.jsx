@@ -1,12 +1,13 @@
 import "./about.css"
 import Coding from '../../img/coding.svg'
+import Me from '../../img/placeholderpic.jpg'
 const About = () => {
     return (
         <div className="a">
             <div className="a-left">
                 <div className="a-card bg"></div>
                 <div className="a-card">
-                    <img src="https://images.pexels.com/photos/270404/pexels-photo-270404.jpeg?cs=srgb&dl=pexels-pixabay-270404.jpg&fm=jpg" alt="" className="a-img" />
+                    <img src={Me} alt="" className="a-img" />
                 </div> 
             </div>
 

@@ -6,7 +6,7 @@ export const products = [
     },
     {
         id: 2,
-        img: require('./img/peacy-craft.png'),
+        img: require('./img/peacy-craft-filler-picture.png'),
         link: "https://peacycraft.netlify.app/"
     },
     {
@@ -14,20 +14,12 @@ export const products = [
         img: require('./img/enaira-web.png'),
         link: "https://enairademoapp.netlify.app/"
     },
+   
     {
         id: 4,
-        img: require('./img/enaira-web.png'),
+        img: require('./img/travel-project.png'),
         link: "https://enairademoapp.netlify.app/"
     },
-    {
-        id: 5,
-        img: require('./img/enaira-web.png'),
-        link: "https://enairademoapp.netlify.app/"
-    },
-    {
-        id: 6,
-        img: require('./img/enaira-web.png'),
-        link: "https://enairademoapp.netlify.app/"
-    },
+  
 
 ]
