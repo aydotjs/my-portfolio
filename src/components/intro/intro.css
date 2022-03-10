@@ -90,6 +90,8 @@
     top: 0;
     right: 0;
 }
+
+
 @media screen and (max-width: 768px){
     .i{
         flex-direction: column;
@@ -105,4 +107,22 @@
         display: none;
     }
 
+    .i-right{
+        display: flex;
+        justify-content: center;
+        
+        }
+        .i-bg{
+            display: none;
+        }
+
+    .i-img{
+       width: 300px;
+       justify-content: center;
+       align-items: center;
+        /* object-fit: center; */
+
+        /* height: 100%;
+        width: auto; */
+    }
 }

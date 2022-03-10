@@ -1,6 +1,6 @@
 
 import "./intro.css"
-import Me from "../../img/me.svg"
+import Me from "../../img/aydotjs-pic.png"
 import Button from "../../img/button.svg"
 const Intro = () => {
     return (
